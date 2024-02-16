@@ -23,4 +23,4 @@ Contribution
 
 7.Wait for your pull request to be reviewed and merged
 
-For any inquiries whatsapp me via +254111506752
+For any inquiries whatsapp or call me via +254111506752
