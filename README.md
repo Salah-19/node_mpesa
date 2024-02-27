@@ -1,6 +1,6 @@
 Installing this project
 
-1.Clone the project
+1.Clone the project 
 
 2.Run npm install
 
